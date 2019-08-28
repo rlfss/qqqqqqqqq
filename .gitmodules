@@ -1,0 +1,4 @@
+[submodule "rlfss/res11"]
+	path = rlfss/res11
+	url = git@github.com:rlfss/res11.git
+	branch = master
